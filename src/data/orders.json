@@ -1,0 +1,47 @@
+[
+    {
+        "order_id": 1,
+        "customer_id": 1,
+        "cake_id": "1",
+        "order_date": "2019-03-25",
+        "order_amount": 450,
+        "status": "Delivered",
+        "payment_mode": "Cash"
+    },
+    {
+        "order_id": 2,
+        "customer_id": 2,
+        "cake_id": "2",
+        "order_date": "2018-01-15",
+        "order_amount": 400,
+        "status": "Delivered",
+        "payment_mode": "Cash"
+    },
+    {
+        "order_id": 3,
+        "customer_id": 1,
+        "cake_id": "3",
+        "order_date": "2020-08-21",
+        "order_amount": 300,
+        "status": "Delivered",
+        "payment_mode": "Cash"
+    },
+    {
+        "order_id": 4,
+        "customer_id": 3,
+        "cake_id": "4",
+        "order_date": "2021-03-13",
+        "order_amount": 380,
+        "status": "Delivered",
+        "payment_mode": "Cash"
+    },
+    {
+        "order_id": 5,
+        "customer_id": 4,
+        "cake_id": "2",
+        "order_date": "2019-11-26",
+        "order_amount": 400,
+        "status": "Delivered",
+        "payment_mode": "Cash"
+    }
+]

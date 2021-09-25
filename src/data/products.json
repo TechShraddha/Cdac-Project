@@ -1,0 +1,46 @@
+[
+    {
+        "cake_id": 1,
+        "category_id": 1,
+        "title": "Black-forest-cake",
+        "description": "This Black Forest Cake combines rich chocolate cake layers with fresh cherries, cherry liqueur, and a simple whipped cream frosting.",
+        "unit_price": 450,
+        "quantity_in_stock": 50,
+        "active": "active",
+        "imageurl": "/images/black-forest-cakes.jpg",
+        "likes": 450000
+    },
+    {
+        "cake_id": 2,
+        "category_id": 1,
+        "title": "Strawberry Cake",
+        "description": "Strawberry cake with strawberry buttercream made from fresh strawberries",
+        "unit_price": 400,
+        "quantity_in_stock": 60,
+        "active": "active",
+        "imageurl": "/images/strawberry-cake.jpg",
+        "likes": 76000
+    },
+    {
+        "cake_id": 3,
+        "category_id": 1,
+        "title": "Red-velvet-Cake",
+        "description": "This cake is incredibly soft, moist, buttery, and topped with an easy cream cheese frosting love cake",
+        "unit_price": 300,
+        "quantity_in_stock": 40,
+        "active": "active",
+        "imageurl": "/images/red-velvet.jpg",
+        "likes": 22000
+    },
+    {
+        "cake_id": 4,
+        "category_id": 1,
+        "title": "Rasmalai-Cake",
+        "description": "Rasmalai Cake is an extraordinary eggless rich cake made by using traditional Indian sweet rasmalai.",
+        "unit_price": 380,
+        "quantity_in_stock": 55,
+        "active": "active",
+        "imageurl": "/images/rasmalai-cake.jpg",
+        "likes": 58000
+    }
+]

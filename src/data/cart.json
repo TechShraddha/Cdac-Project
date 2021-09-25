@@ -1,0 +1,34 @@
+[
+    {
+        "cake_id": 1,
+        "category_id": 1,
+        "title": "Black-forest-cake",
+        "unit_price": 450,
+        "quantity": 4,
+        "imageurl": "/images/black-forest-cakes.jpg"
+    },
+    {
+        "cake_id": 2,
+        "category_id": 1,
+        "title": "Strawberry Cake",
+        "unit_price": 400,
+        "quantity": 1,
+        "imageurl": "/images/strawberry-cake.jpg"
+    },
+    {
+        "cake_id": 3,
+        "category_id": 1,
+        "title": "Red-velvet-Cake",
+        "unit_price": 300,
+        "quantity": 2,
+        "imageurl": "/images/red-velvet.jpg"
+    },
+    {
+        "cake_id": 4,
+        "category_id": 1,
+        "title": "Rasmalai-Cake",
+        "unit_price": 380,
+        "quantity": 3,
+        "imageurl": "/images/rasmalai-cake.jpg"
+    }
+]
