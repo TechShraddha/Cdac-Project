@@ -1,3 +1,11 @@
+Bake N' Flake CakeStore is an E-commerce web app built with MERN stack v1.0.0. 
+It is part of a React. 
+This is a completely functional web app where one can visit, register, purchase and 
+make transactions with cake products and one can also manage cakes, cake types, customers, bills and sell details. 
+This will provide a platform for small as well as large cakeshops to manage their business 
+and get available to the customers through online delivery.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
